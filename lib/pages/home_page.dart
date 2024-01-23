@@ -1,6 +1,3 @@
-import 'dart:developer';
-import 'dart:js';
-
 import 'package:chatapp/services/auth/auth_service.dart';
 import 'package:chatapp/services/chat/chat_service.dart';
 import 'package:flutter/material.dart';
